@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.umang.justodo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DoApiApplication {
+public class JustodoApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DoApiApplication.class, args);
+		SpringApplication.run(JustodoApiApplication.class, args);
 	}
 
 }
